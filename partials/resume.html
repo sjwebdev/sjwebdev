@@ -18,9 +18,14 @@
 </div>
 
 <h2>Education</h2>
+<p ng-repeat="course in resume.education"><b>{{course.name}}</b><br />
+{{course.institute}} - {{course.graduatingYear}}
+</p>
 
 <h2>Awards</h2>
-
+<p ng-repeat="award in resume.awards"><b>{{award.name}}</b><br />
+{{award.institute}} - {{award.Year}}
+</p>
 <h2>Languages Spoken</h2>
 <ul ng-repeat="language in resume.languages">
 	<li>{{language.name}} - {{language.proficiency}}</li>

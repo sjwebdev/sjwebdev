@@ -76,7 +76,15 @@
 			]
 		}
     ],
-	
+	"education": [
+		{"name":"Advanced Diploma of Information Technology (Systems Process and Improvement)","institute": "Northern Melbourne Institute of TAFE", "graduatingYear":"2009"},
+		{"name":"Certificate IV in Information Technology (Programming)","institute": "Northern Melbourne Institute of TAFE", "graduatingYear":"2008"},
+		{"name":"Certificate IV in Information Technology (Networking)","institute": "Northern Melbourne Institute of TAFE", "graduatingYear":"2008"}
+	],
+	"awards": [
+		{"name": "Most Outstanding Student of the Year - NMIT", "institute": "Northern Melbourne Institute of TAFE", "year":"2010"},
+		{"name": "Outstanding Student of the Year - Faculty of Business", "institute": "Northern Melbourne Institute of TAFE", "year":"2010"}
+	],
 	"languages": [
 		{"name": "English", "proficiency": "Native speaker"},
 		{"name": "German", "proficiency": "Limited working proficiency"},
