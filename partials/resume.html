@@ -1,0 +1,9 @@
+<h1>{{resume.name}}</h1>
+<div ng-repeat="job in resume.jobs">
+	<h3>{{job.title}}</h3>
+	<h4>{{job.company}}</h4>
+	<p>{{job.startDate}} to {{job.endDate}}</p>
+	<ul ng-repeat="achievement in job.achievements">
+		<li>{{achievement}}</li>
+	</ul>
+</div>

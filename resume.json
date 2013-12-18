@@ -1,0 +1,78 @@
+{
+    "name": "Simon Jones",
+    "email": "simon@sjwebdev.com",
+	"certifications" : [
+		{"title": "Zend Certified Engineer – PHP 5.3"}
+	],
+    "jobs": [
+        {
+            "title": "Software Engineer",
+            "company": "TrackVia",
+			"startDate": "January 2012",
+			"endDate": "October 2013",
+            "achievements": [
+                "Developed a RESTful API using Java's Spring Framework and Hibernate.",
+                "Created a Symfony2 PHP framework application (Doctrine ORM) to supplement existing code.",
+                "Maintained a legacy PERL application.",
+				"Implemented a dynamic permissions system from the ground up.",
+				"Member of the TrackVia Action Committee, acting as a staff liaison with the company's CEO on business policy.",
+				"Complimented on my ability to breakdown and explain engineering concepts to non-technical team members."
+            ]
+        },
+		{
+			"title": "PHP Developer",
+			"company": "Media Equation",
+			"startDate": "March 2011",
+			"endDate": "January 2012",
+			"achievements": [
+				"Maintained and further developed an existing Model View Controller (MVC) structured application.",
+				"Provided front-end design changes using the Smarty template engine."
+			]
+		},
+		{
+			"title": "Freelance Web Developer",
+			"company": "Media Equation",
+			"startDate": "February 2010",
+			"endDate": "Present",
+			"achievements": [
+				"Provided custom PHP website development, troubleshooting and bug fixes.",
+				"Installed and configured open source solutions including Magento, WordPress and Joomla."
+			]
+		},
+		{
+			"title": "Web Developer",
+			"company": "Multimedia Technology",
+			"startDate": "March 2009",
+			"endDate": "February 2011",
+			"achievements": [
+				"PHP and Sybase Advantage Database website development using standards-compliant XHTML, CSS and Javascript.",
+				"Converted design layout images into full XHTML and CSS structures.",
+				"Created SQL reports for business use.",
+				"Designed and built new features using Object-Oriented PHP, such as customizable data-feeds.",
+				"Trained other staff in the use of semantically correct HTML and CSS."
+			]
+		},
+		{
+			"title": "Project Team Leader - Lime Design",
+			"company": "Northern Melbourne Institute of TAFE (NMIT)",
+			"startDate": "July 2009",
+			"endDate": "December 2009",
+			"achievements": [
+				"Turned an A4 page of client specifications into a fully developed application.",
+				"Lead team of four through full system development life-cycle building an application using Object-Oriented Microsoft Visual Basic .NET with a Microsoft Access database.",
+				"Delivered full suite of documentation based on UML standards including SRS and User Help."
+			]
+		},
+		{
+			"title": "Web Assistant",
+			"company": "Marketing & Corporate Communications Dept. (NMIT)",
+			"startDate": "April 2008",
+			"endDate": "March 2009",
+			"achievements": [
+				"Supervised team of five during content migration to a new CMS based site.",
+				"Updated institute website and code work in C#.NET",
+				"Developed project tracking and reporting methods including notification to senior managers."
+			]
+		}
+    ]
+}
