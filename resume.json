@@ -2,7 +2,7 @@
     "name": "Simon Jones",
     "email": "simon@sjwebdev.com",
 	"certifications" : [
-		{"title": "Zend Certified Engineer – PHP 5.3"}
+		{"title": "Zend Certified Engineer - PHP 5.3"}
 	],
     "jobs": [
         {
@@ -74,5 +74,12 @@
 				"Developed project tracking and reporting methods including notification to senior managers."
 			]
 		}
-    ]
+    ],
+	
+	"languages": [
+		{"name": "English", "proficiency": "Native speaker"},
+		{"name": "German", "proficiency": "Limited working proficiency"},
+		{"name": "Spanish", "proficiency": "Elementary proficiency"}
+	],
+	"interests": "During my spare time I love reading books about obscure topics and gaming on my PC. I also enjoy travelling the world experiencing new cultures and spending time on personal programming projects. And hockey. Go Avalanche."
 }

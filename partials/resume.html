@@ -1,4 +1,11 @@
 <h1>{{resume.name}}</h1>
+
+<h2>Certifications</h2>
+<p ng-repeat="certification in resume.certifications">
+{{certification.title}}
+</p>
+
+<h2>Employment History</h2>
 <div ng-repeat="job in resume.jobs">
 	<h3>{{job.title}}</h3>
 	<h4>{{job.company}}</h4>
@@ -7,3 +14,15 @@
 		<li>{{achievement}}</li>
 	</ul>
 </div>
+
+<h2>Education</h2>
+
+<h2>Awards</h2>
+
+<h2>Languages Spoken</h2>
+<ul ng-repeat="language in resume.languages">
+	<li>{{language.name}} - {{language.proficiency}}</li>
+</ul>
+
+<h2>Personal Interests</h2>
+<p>{{resume.interests}}</p>
