@@ -1,6 +1,7 @@
 {
     "name": "Simon Jones",
     "email": "simon@sjwebdev.com",
+	"linkedin": "sjwebdev",
 	"certifications" : [
 		{"title": "Zend Certified Engineer - PHP 5.3"}
 	],
